@@ -4,7 +4,13 @@ body {
     flex-direction: column;
     margin: 0;
     background-color:rgba(85, 85, 85, 0);
+
+   
 }
+
+
+
+
 main {
     flex: 1 0 auto;
 }
@@ -17,7 +23,7 @@ nav{
         margin-top: 0.2em;
        
     }
-}
+   
 
 .banner{
  width: 100%;
@@ -32,6 +38,6 @@ nav{
   }
 
 
-footer{
-    background-color: rgba(31, 85, 202, 0.973)!important;
-}
+// footer{
+//     background-color: rgba(31, 85, 202, 0.973)!important;
+// }

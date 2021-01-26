@@ -5,6 +5,18 @@ body {
   margin: 0;
   background-color: rgba(85, 85, 85, 0); }
 
+  h3{
+    font-size: 2rem;
+    font-weight: lighter;
+    text-align: center;
+
+  }
+
+  
+    li{
+        padding: 0.2rem;
+    }
+
 main {
   flex: 1 0 auto; }
 
@@ -13,6 +25,7 @@ nav {
   nav .brand-logo {
     margin-left: 1em;
     margin-top: 0.2em; }
+  
 
 .banner {
   width: 100%;
